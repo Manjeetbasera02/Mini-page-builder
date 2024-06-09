@@ -15,7 +15,7 @@ This project is a mini page builder created using React and Vite. It includes a 
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/mini-page-builder.git
+    git clone https://github.com/Manjeetbasera02/mini-page-builder.git
     cd mini-page-builder
     ```
 
